@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/victorratts13/pulldata-bet-api#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": ">=0.21.1",
     "axios-cookiejar-support": "^1.0.0",
     "qs": "^6.9.4",
     "tough-cookie": "^4.0.0"
